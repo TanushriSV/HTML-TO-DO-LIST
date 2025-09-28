@@ -49,3 +49,5 @@ A **dynamic To-Do List** application built using **HTML, CSS, and JavaScript**, 
 
 ## 🔗 Live Demo
 [View Live Project](https://tanushrisv.github.io/HTML-TO-DO-LIST/)
+
+© 2025 Tanushri S V. Developed and maintained by Tanushri S V. All rights reserved.
